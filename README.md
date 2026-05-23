@@ -1,125 +1,82 @@
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ffeff,100:0d32b4&height=240&text=About%20Me&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003cff&height=240&section=header&text=About%20Me&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<div style="text-align: left;">
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+Introduction
+</h2>
+
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+한국 사는 중3 학생입니다.
+주로 AI를 활용하여 유니티로 이상한 거 만듭니다.
+</div>
 
 </div>
 
-<br>
+<div style="text-align: left;">
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+💾 Experiences
+</h2>
 
-# 01 / INTRODUCTION
-
-```yaml
-Name : Hyunwoo
-Location : Korea
-Engine : Unity 6
-
-Interest :
-  - AI
-  - Unity
-  - Weird Projects
-```
-
-> 한국 사는 중3 학생입니다.  
-> 주로 AI를 활용하여 유니티로 이상한 거 만듭니다.
-
-<br>
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-003CFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FOCUS-GAMEPLAY_SYSTEMS-001B6B?style=for-the-badge"/>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+-KOI 2026 1차대회 동상 수상
+</div>
 
 </div>
 
-<br>
+<div style="text-align: left;">
 
----
-
-# 02 / EXPERIENCES
-
-```diff
-+ KOI 2026 1차대회 동상 수상
-+ AI 기반 Unity 프로젝트 제작
-+ FPS / 액션 시스템 개발
-```
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+🛠️ Tech Stacks
+</h2>
 
 <br>
 
----
+<div align="center">
 
-# 03 / TECH STACKS
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 
-<p align="left">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=python,c,unity,cs"/>
+</div>
 
-</p>
+</div>
+
+<div style="text-align: left;">
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+🧑‍💻 Contact me
+</h2>
 
 <br>
 
----
-
-# 04 / CONTACT
-
-<p align="left">
+<div align="center">
 
 <a href="mailto:hyunguy001@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-003CFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hyunguy001@gmail.com">
+
 </a>
-
-</p>
-
-<br>
-
----
-
-# 05 / STATS
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hyunguykorea&show_icons=true&bg_color=00000000&title_color=2F6FFF&text_color=FFFFFF&icon_color=2F6FFF&border_color=003CFF"/>
-
-</p>
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunguykorea&layout=compact&bg_color=00000000&title_color=2F6FFF&text_color=FFFFFF&border_color=003CFF"/>
-
-</p>
-
-</td>
-
-<td width="48%" valign="top">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hyunguykorea/hyunguykorea/main/p3.png" width="100%"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MY_PROFILE-001B6B?style=for-the-badge"/>
-
-<br><br>
-
-```txt
-SEEK YOUR TRUTH
-```
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003cff,100:050816&height=90&section=footer"/>
+</div>
+
+<div style="text-align: left;">
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+🏅 Stats
+</h2>
+
+<div align="center">
+</div>
 
 </div>
