@@ -1,26 +1,101 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5ffeff,100:0d32b4&height=240&text=About%20Me&animation=fadeIn&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 한국 사는 중3 학생입니다. 주로 AI를 활용하여 유니티로 이상한 거 만듭니다. </div> 
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💾 Experiences </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> -KOI 2026 1차대회 동상 수상 </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:hyunguy001@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hyunguy001@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">   </div> 
-    </div>
-    
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b7ff,100:0047ff&height=260&section=header&text=Persona%203%20Reload&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<div align="center">
+
+# 🔵 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B7FF&center=true&vCenter=true&width=500&lines=Middle+School+Developer;Unity+%2B+AI+Enjoyer;Making+Weird+Stuff+in+Unity" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 Introduction
+
+```yaml
+Name: Hyunwoo
+Location: Korea
+Age: Middle School Student
+Engine: Unity 6
+Focus:
+  - AI
+  - Game Development
+  - Weird Experiments
+```
+
+> "Burn My Dread."
+
+</td>
+<td width="50%">
+
+<img src="https://i.imgur.com/fZ9sLjv.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚔️ Experiences
+
+</div>
+
+```diff
++ KOI 2026 1차대회 동상 수상
++ Unity 기반 프로젝트 개발
++ AI 활용 게임 시스템 제작
+```
+
+---
+
+<div align="center">
+
+# 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,c,unity,cs" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 Contact
+
+<a href="mailto:hyunguy001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-00B7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true&theme=transparent&title_color=00B7FF&text_color=ffffff&icon_color=00B7FF&border_color=00B7FF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact&theme=transparent&title_color=00B7FF&text_color=ffffff&border_color=00B7FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ff,100:00b7ff&height=120&section=footer"/>
+
+</div>
