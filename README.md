@@ -4,6 +4,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 한국 사는 중3 학생입니다. 주로 AI를 활용하여 유니티로 이상한 거 만듭니다. </div> 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💾 Experiences </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> -KOI 2026 1차대회 동상 수상 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
